@@ -1,1 +1,1 @@
-create a script directory
+move the file
