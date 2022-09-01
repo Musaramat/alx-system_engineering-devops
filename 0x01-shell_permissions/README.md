@@ -1,1 +1,1 @@
-script that set
+script that set the permission
