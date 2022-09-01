@@ -1,1 +1,1 @@
-owner of file
+empty file
