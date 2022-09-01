@@ -1,1 +1,1 @@
-mode of file
+permission
