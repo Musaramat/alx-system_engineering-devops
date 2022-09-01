@@ -1,1 +1,1 @@
-print the effective username
+effcetive username of the current user
