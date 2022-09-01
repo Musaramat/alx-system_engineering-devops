@@ -1,1 +1,1 @@
-working directory to the user is home
+current directory contents in long format
