@@ -1,1 +1,2 @@
-script that changes
+#!/bin/bash
+chown betty hello
