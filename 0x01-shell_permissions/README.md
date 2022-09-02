@@ -1,1 +1,1 @@
-script that changes
+script that print
