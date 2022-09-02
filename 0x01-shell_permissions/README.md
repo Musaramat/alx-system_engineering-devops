@@ -1,1 +1,1 @@
-owner and the group owner
+owner of the file
