@@ -1,1 +1,1 @@
-delete all files
+directories
