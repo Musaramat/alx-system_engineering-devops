@@ -1,1 +1,1 @@
-script that display
+all the empty file
