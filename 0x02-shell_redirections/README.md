@@ -1,1 +1,1 @@
-script print
+scrpt print
