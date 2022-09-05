@@ -1,1 +1,1 @@
-word as input
+numbers
