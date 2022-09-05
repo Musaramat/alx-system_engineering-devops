@@ -1,1 +1,1 @@
-script
+last 10 lines
