@@ -1,1 +1,1 @@
-scrpt print
+content display
