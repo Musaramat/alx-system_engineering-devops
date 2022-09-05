@@ -1,1 +1,1 @@
-script
+duplicate
