@@ -1,1 +1,1 @@
-count
+word as input
