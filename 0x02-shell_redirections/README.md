@@ -1,1 +1,1 @@
-display
+shell script
