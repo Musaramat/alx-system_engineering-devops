@@ -1,1 +1,1 @@
-display all line
+write a script
