@@ -1,1 +1,1 @@
-create a script
+display the number
