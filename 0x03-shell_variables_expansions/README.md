@@ -1,1 +1,1 @@
-true
+script
