@@ -1,1 +1,1 @@
-script that delete
+create a script
