@@ -1,1 +1,1 @@
-path
+the paths
